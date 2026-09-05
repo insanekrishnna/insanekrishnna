@@ -88,7 +88,7 @@ I build **high-craft interfaces, full-stack products, design systems, and reliab
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://paperlabb.vercel.app/">
-<img src="https://img.shields.io/badge/PAPERLAB-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFFFFF" height="28" alt="Paperlab">
+<img src="https://img.shields.io/badge/PAPERLAB-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFFFFF" height="28" alt="Paperlab">
 </a>
 </td>
 </tr>
