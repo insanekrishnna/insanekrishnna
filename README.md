@@ -102,7 +102,7 @@ I build **high-craft interfaces, full-stack products, design systems, and reliab
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://metamex.vercel.app/">
-<img src="https://img.shields.io/badge/METAMAX-7C3AED?style=for-the-badge&logo=lighthouse&logoColor=FFFFFF" height="28" alt="Metamax">
+<img src="https://img.shields.io/badge/METAMAX-2563EB?style=for-the-badge&logo=lighthouse&logoColor=FFFFFF" height="28" alt="Metamax">
 </a>
 </td>
 </tr>
@@ -116,7 +116,7 @@ I build **high-craft interfaces, full-stack products, design systems, and reliab
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://polymatch.online/">
-<img src="https://img.shields.io/badge/POLYMATCH-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" height="28" alt="Polymatch">
+<img src="https://img.shields.io/badge/POLYMATCH-2563EB?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" height="28" alt="Polymatch">
 </a>
 </td>
 </tr>
@@ -130,7 +130,7 @@ I build **high-craft interfaces, full-stack products, design systems, and reliab
 <tr>
 <td bgcolor="#F6F8FA" align="center">
 <a href="https://kova-7ijn.onrender.com/">
-<img src="https://img.shields.io/badge/KOVAA-059669?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF" height="28" alt="Kovaa">
+<img src="https://img.shields.io/badge/KOVAA-2563EB?style=for-the-badge&logo=homeassistant&logoColor=FFFFFF" height="28" alt="Kovaa">
 </a>
 </td>
 </tr>
