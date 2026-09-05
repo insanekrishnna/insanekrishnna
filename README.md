@@ -146,5 +146,5 @@ I build **high-craft interfaces, full-stack products, design systems, and reliab
 
 
 <p align="center">
-<img src="https://count.getloli.com/@:insanekrishnna" alt="Profile views" />
+<img src="https://count.getloli.com/@:insanekrishnna?theme=3d-num" alt="Profile views" />
 </p>
