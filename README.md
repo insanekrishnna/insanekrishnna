@@ -1,7 +1,8 @@
 <table width="100%">
 <tr>
 <td align="left">
-<strong>Software Engineer / Design Engineer.</strong> Pixel-perfect products, built end to end.
+<strong>Software Engineer / Design Engineer.
+</strong> Pixel-perfect products, built end to end.
 </td>
 <td align="right">
 <a href="https://prathm.me/">Portfolio</a> |
@@ -143,8 +144,3 @@ I build **high-craft interfaces, full-stack products, design systems, and reliab
 
 </div>
 
-
-
-<p align="center">
-<img src="https://count.getloli.com/@:insanekrishnna?theme=3d-num" alt="Profile views" />
-</p>
