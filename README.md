@@ -60,7 +60,7 @@ I build **high-craft interfaces, full-stack products, design systems, and reliab
 
 <div align="center">
 
-## Selected Work
+## What I've shipped
 
 **Ideas pushed past the mockup and into working software.**
 
